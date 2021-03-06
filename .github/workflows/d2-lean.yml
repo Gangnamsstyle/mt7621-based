@@ -25,7 +25,7 @@ on:
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: 19.07
+  REPO_BRANCH: master
   AUTHOR: Lienol
   FEEDS_CONF: lean-feeds.conf.default.bak
   CONFIG_FILE: .config.d2-lean-20210306
