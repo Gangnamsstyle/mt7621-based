@@ -24,9 +24,9 @@ on:
     types: started
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: master
-  AUTHOR: lean
+  REPO_URL: https://github.com/Lienol/openwrt
+  REPO_BRANCH: 19.07
+  AUTHOR: Lienol
   FEEDS_CONF: lienol-feeds.conf.default
   CONFIG_FILE: .config-d2-lienol
   DIY_P1_SH: diy-part1.sh
