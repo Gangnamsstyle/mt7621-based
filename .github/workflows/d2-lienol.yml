@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build lean's OpenWrt 1907 of Newifi D2
+name: Build lienol's OpenWrt 1907 of Newifi D2
 
 on:
   repository_dispatch:
