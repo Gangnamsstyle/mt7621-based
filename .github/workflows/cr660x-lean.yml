@@ -8,8 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt lean x64 
-
+name: Build OpenWrt for xiaomi cr660x lean
 on:
   repository_dispatch:
   workflow_dispatch:
