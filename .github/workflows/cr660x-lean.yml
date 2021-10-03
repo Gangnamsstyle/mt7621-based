@@ -27,7 +27,7 @@ env:
   AUTHOR: lean
   REPO_BRANCH: master
   FEEDS_CONF: lean-feeds.conf.default.bak
-  CONFIG_FILE: .config-cr660x-20211002
+  CONFIG_FILE: .config-cr660x-20211003
   DEVICE_NAME: cr660x-lean
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
