@@ -28,7 +28,7 @@ env:
   REPO_BRANCH: master
   AUTHOR: lean
   FEEDS_CONF: lean-feeds.conf.default.bak
-  CONFIG_FILE: .config-d2-lean-20210306
+  CONFIG_FILE: .config.d2-20211209-lean
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   SSH_ACTIONS: false
